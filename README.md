@@ -1,5 +1,8 @@
 # simple-dotenv
 
+[![tag](https://img.shields.io/github/release/lion-man44/simple-dotenv)](https://github.com/lion-man44/simple-dotenv/releases/latest)
+[![license](https://img.shields.io/github/license/lion-man44/simple-dotenv)](https://github.com/lion-man44/simple-dotenv/blob/master/LICENSE)
+
 Read .env file for deno.
 
 This module is very very very simple compare with other dotenv modules.
