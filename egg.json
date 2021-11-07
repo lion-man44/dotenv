@@ -1,0 +1,22 @@
+{
+  "$schema": "https://x.nest.land/eggs@0.3.9/src/schema.json",
+  "name": "simple-dotenv",
+  "entry": "./mod.ts",
+  "description": "A very simple module to read env file",
+  "homepage": "https://github.com/lion-man44/simple-dotenv",
+  "version": "0.0.1",
+  "releaseType": "patch",
+  "unstable": false,
+  "unlisted": false,
+  "files": [
+    "mod.ts",
+    "src/**/*.ts",
+    "LICENSE",
+    "README.md"
+  ],
+  "ignore": [],
+  "checkFormat": false,
+  "checkTests": false,
+  "checkInstallation": false,
+  "check": true
+}
